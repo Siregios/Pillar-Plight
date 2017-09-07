@@ -1,0 +1,38 @@
+Each pillar is a story, can be multi-part
+	Father and son climbing, one pillar the other isn't at the top
+		Bandana
+	Fireworks launcher
+	Enjoying the view
+	Get the crown
+	Duel at the peak
+	Painter
+	Lighting the beacon
+	Treasure Seeker
+		Needs to escape before pillar crumbles
+		Start going down, then go up to escape
+		Demon Battle
+
+Specific modelling for certain areas (broken towers)
+
+Flowing Water/Lava/Sand Texture
+	Waterfall effect as well
+
+Multiple Layers of pillars for more stuff
+	Generate more pillars for rendering
+
+Foreground Art
+	Obscuring Foreground
+
+Material Loader
+	Decides what material to use
+
+Challenges:
+	Falling Stuff
+	Lighting
+	Water/Lavafall
+	Rotating Magic Blocks
+	Rising Fire/Tide
+	Targeted Attack
+Collectibles are story relevant
+	Fireworks setoff for the fireworks guy
+	Wind inhibiting/slowing movement during certain time intervals
